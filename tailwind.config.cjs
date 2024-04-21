@@ -29,7 +29,7 @@ module.exports = {
     extend: {
       colors: {
         white: "#FFFFFF",
-        black: "#212b36",
+        black: "#000000",
         "dark-700": "#090e34b3",
         dark: {
           DEFAULT: "#111928",
@@ -41,9 +41,9 @@ module.exports = {
           7: "#D1D5DB",
           8: "#E5E7EB",
         },
-        primary: "#3758F9",
+        primary: "#FFD629",
         "blue-dark": "#1B44C8",
-        secondary: "#13C296",
+        secondary: "#7A7978",
         "body-color": "#637381",
         "body-secondary": "#8899A8",
         warning: "#FBBF24",
